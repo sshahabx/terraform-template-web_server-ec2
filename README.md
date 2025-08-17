@@ -21,6 +21,11 @@ Internet → Internet Gateway → Route Table → Public Subnet → EC2 Instance
                               Security Group (Ports 22, 80, 443)
 ```
 
+### 🖼️ **Infrastructure Diagram:**
+![Infrastructure Diagram](InfraDiagram.png)
+
+*Visual representation of the AWS infrastructure components and their connections*
+
 ## 🛠️ Prerequisites
 
 - [Terraform](https://www.terraform.io/downloads.html) (version >= 1.0)
